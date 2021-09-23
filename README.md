@@ -43,4 +43,4 @@ Esse projeto é baseado na graber original, então impressoras derivadas da grab
 
 Suporte extrusora: O suporte atual foi projetado para hotend v6 e sensor bltouch. O resfriamento da peça que está sendo impressa é feita através de um cooler 40x40 (nas fotos tem o modelo).
 
-Para compra do frame e/ou peças impressas acesse: prelo3d.com.br
+Para compra do frame e/ou peças impressas acesse: https://www.prelo3d.com.br/
