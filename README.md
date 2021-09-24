@@ -19,7 +19,7 @@ O projeto graber-p3d foi desenvolvido para ter uma relação custo/benefício me
 <br />Y: 385mm 
 <br />Z: 355mm
 
-**Medidas e quantidades de perfis necessários para a montagem: **
+**Medidas e quantidades de perfis necessários para a montagem:**
 <br /> 2 perfis para X base: 325mm (perfil frontal e trazerio onde vai preso os suportes das guias das mesas) 
 <br /> 1 perfil para X topo: 265mm (onde vai preso a extrusora encima) 
 <br /> 2 perfis para Y: 325mm 
