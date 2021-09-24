@@ -1,2 +1,3 @@
 # graber-p3d
-Projeto impressora graber 220x220x220
+Aqui você encontra o projeto impressora graber-p3d com área de impressão de 220x220x220.
+Em anexo tem todos os STLs e os arquivos em solidworks para quem precisar fazer alterações. 
