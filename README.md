@@ -35,8 +35,8 @@ Medidas necessárias das guias (as peças impressas tem furação para encaixe d
 <br /> Y: 320 a 340mm 
 <br /> Z: 300 a 303mm (pode ser usada maior, mas vai sobrar para fora da peça impressa encima).
 
-Dúvidas
-Posso migrar da graber para esse projeto? Esse projeto é baseado na graber original, então impressoras derivadas da graber, como por exemplo a agraber, pode ser reaproveitado peças impressas para montagem nesse frame. Porém como esse projeto é diferente da agraber, algumas peças impressas da agraber não encaixem: Os suportes dos pés, o suporte dos motores do z, z topo e o suporte para a placa.
+Dúvidas:
+<br /> Posso migrar da graber para esse projeto? Esse projeto é baseado na graber original, então impressoras derivadas da graber, como por exemplo a agraber, pode ser reaproveitado peças impressas para montagem nesse frame. Porém como esse projeto é diferente da agraber, algumas peças impressas da agraber não encaixem: Os suportes dos pés, o suporte dos motores do z, z topo e o suporte para a placa.
 
 Suporte para placa e painel: Por padrão, esse projeto está finalizado com suporte para placa skr 1.4 turbo e painel 12864, se quiser suporte para outros modelos de placas, favor solicitar o stl ou as peças impressas (no caso da compra das peças imnpressas) que projetamos para a placa que precisar.
 
