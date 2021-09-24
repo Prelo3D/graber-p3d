@@ -13,10 +13,10 @@ Significado do nome: Graber porque é derivada de modelos graber, e p3d por ser 
 O projeto graber-p3d foi desenvolvido para ter uma relação custo/benefício melhor em relação a outras impressoras do mercado, como a agraber (https://github.com/acguardia/AGraber-30i) por exemplo que é feita de perfis de alumínio, já que nosso modelo utiliza perfis de metalon.
 
 Algumas qualidades/diferenças entre outros modelos graber disponíveis hoje: 
-  *Permite colocar mesa aquecida de até 240x240mm e ter uma área de impressão de 220x220x220mm. 
-  *É possível comprar o tubo de metalon, e montar em casa por um ótimo custo/benefício. 
-  *Mais resistênte que perfis de alumínio: O metalon por ser todo soldado, não gera folga com o tempo, ao contrário dos perfis de alumínio que devem ser reapertados com o passar do tempo. 
-  *Sistema bowdem, permitindo uma maior velocidade de impressão.
+  <br /> *Permite colocar mesa aquecida de até 240x240mm e ter uma área de impressão de 220x220x220mm. 
+  <br /> *É possível comprar o tubo de metalon, e montar em casa por um ótimo custo/benefício. 
+  <br /> *Mais resistênte que perfis de alumínio: O metalon por ser todo soldado, não gera folga com o tempo, ao contrário dos perfis de alumínio que devem ser reapertados com o passar do tempo. 
+  <br /> *Sistema bowdem, permitindo uma maior velocidade de impressão.
 
 Medidas externas do frame montado: X: 325mm Y: 385mm Z: 355mm
 
