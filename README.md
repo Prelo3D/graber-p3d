@@ -1,6 +1,6 @@
 # **Graber-p3d**
 Aqui você encontra o projeto da impressora graber-p3d com área de impressão de 220x220x220.
-O projeto já está pronto, mas ainda falta terminar o upload de todos os arquivos aqui. Nosso foco é a mecânica da máquina, então, além de encontrar as fotos, STLs, arquivos em solidworks, você encontra as medidas dos perfis e guias. Você pode montar o frame em casa, e baixar nossos STLs de forma totalmente gratuita.
+O projeto já está pronto, mas ainda falta terminar o upload de alguns arquivos aqui. Nosso foco é a mecânica da máquina, então, além de encontrar as fotos, STLs, arquivos em solidworks, você encontra as medidas dos perfis e guias. Você pode montar o frame em casa, e baixar nossos STLs de forma totalmente gratuita.
 
 Significado do nome graber-p3d: Graber porque é derivada de modelos graber, e p3d por ser criado por nossa empresa, "prélo 3d".
 
